@@ -1,0 +1,22 @@
+body {
+    background-color: royalblue;
+}
+
+#fieldset {
+    width: 350px;
+    position: relative;
+    left: 350px;
+    top: 350px;
+    border-radius: 10px;
+    background-color:white ;
+}
+
+#in-name {
+    height: 30px;
+    width: 300px;
+}
+
+#in-email {
+    height: 30px;
+    width: 300px;
+}
