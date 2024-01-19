@@ -17,11 +17,20 @@ body {
     background-color:white ;
 }
 
+#p1 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+#p2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
 #in-name {
     height: 30px;
     width: 300px;
     border: none;
     border-bottom: blue 1px solid;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 #in-email {
@@ -29,6 +38,20 @@ body {
     width: 300px;
     border: none;
     border-bottom: blue 1px solid;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#forget-pass {
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#creataccount {
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
 }
 
 #submit {
@@ -39,4 +62,5 @@ body {
     padding: 15px;
     width: 300px;
     margin-left: 25px;
+    font-family: Arial, Helvetica, sans-serif;
 }
