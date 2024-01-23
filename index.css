@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-navbar {
-
-}
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -30,7 +26,7 @@ body {
     padding: 10px 30%;
   }
   .nav-center {
-    flex: 1; /* این خط کادر جستجو را وسط می‌کند */
+    flex: 1;
     text-align: center;
   }
   .nav-right img {
@@ -38,10 +34,6 @@ body {
   }
 
   .fas.fa-sign-in-alt {
-    /* اینجا می‌توانید ویژگی‌های CSS مربوط به آیکون ورود را تعیین کنید */
-    color: blue; /* مثال: تغییر رنگ آیکون به آبی */
-    font-size: 24px; /* مثال: تغییر اندازه آیکون */
+    color: blue;
+    font-size: 24px;
   }
-  
-=======
->>>>>>> e8880acd4533700a4674c113b8d3155f6581f723
