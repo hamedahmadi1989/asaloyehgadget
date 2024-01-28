@@ -1,47 +1,42 @@
-<<<<<<< HEAD
-navbar {
-
-}
 body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-  }
-  
-  nav {
+}
+
+nav {
     background-color: #f2f2f2;
     padding: 20px 20px;
     display: flex;
     justify-content: space-between;
     align-items: center;
-  }
-  
-  .nav-left button {
-    font-size:large;
+}
+
+.nav-left button {
+    font-size: large;
     margin-right: 10px;
-    border:none;
-    background-color:#f2f2f2;
+    border: none;
+    background-color: #f2f2f2;
     cursor: pointer;
-    
-  }
-  
-  .nav-center input {
+}
+
+.nav-center input {
     margin-right: 10px;
     padding: 10px 30%;
-  }
-  .nav-center {
-    flex: 1; /* این خط کادر جستجو را وسط می‌کند */
-    text-align: center;
-  }
-  .nav-right img {
-    max-height: 40px;
-  }
+}
 
-  .fas.fa-sign-in-alt {
-    /* اینجا می‌توانید ویژگی‌های CSS مربوط به آیکون ورود را تعیین کنید */
-    color: blue; /* مثال: تغییر رنگ آیکون به آبی */
-    font-size: 24px; /* مثال: تغییر اندازه آیکون */
-  }
-  
-=======
->>>>>>> e8880acd4533700a4674c113b8d3155f6581f723
+.nav-center {
+    flex: 1;
+    text-align: center;
+}
+
+.nav-right img {
+    max-height: 40px;
+}
+
+.fas.fa-sign-in-alt {
+    color: blue;
+    font-size: 24px;
+}
+
+
