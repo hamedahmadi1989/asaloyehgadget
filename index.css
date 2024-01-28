@@ -27,6 +27,8 @@ body {
     border-radius: 8px;
     margin-left: 10px;
     padding: 10px;
+    text-decoration: none;
+    color: black;
   }
 
   #sign {
