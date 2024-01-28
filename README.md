@@ -1,2 +1,0 @@
-# asaloyehgadget
-site asaloyoyeh shop
