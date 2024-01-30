@@ -6,7 +6,8 @@
   }
   
   .slide {
-    height: 200px;
+    height: 100%;
+    width: 100%;
   }
   /* .slide img {
     max-width: 100%;
