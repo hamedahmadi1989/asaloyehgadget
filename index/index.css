@@ -96,10 +96,6 @@ body {
     margin-left: 5px;
   }
 
-  #slide-images {
-    height: 400px;
-  }
-
   #special {
     display: flex;
     flex-direction:row;
