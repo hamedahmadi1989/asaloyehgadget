@@ -2,12 +2,7 @@ body {
     font-family: Arial, Helvetica, sans-serif ;
     margin: 0;
     padding: 0;
-<<<<<<< HEAD
 }
-
-nav {
-=======
-  }
   
   #grouping {
     display: flex;
@@ -20,13 +15,11 @@ nav {
   /* navbar code */
 
   nav {
->>>>>>> 9423b4d25e56265716cea80b59ffc21b6986536f
     background-color: #f2f2f2;
     padding: 20px 20px;
     display: flex;
     justify-content: space-between;
     align-items: center;
-<<<<<<< HEAD
 }
 
 .nav-left button {
@@ -55,10 +48,6 @@ nav {
     color: blue;
     font-size: 24px;
 }
-
-
-=======
-  }
 
   #nav-a {
     border: 2px solid black;
