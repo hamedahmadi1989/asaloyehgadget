@@ -12,6 +12,12 @@ body {
     margin-left: 30px;
   }
 
+  #icons {
+    border: solid 1px grey;
+    padding-bottom: 5px;
+    border-radius: 15px;
+  }
+
   /* navbar code */
 
   nav {
@@ -111,8 +117,12 @@ body {
   #special-images {
     width: 200px;
     height: 200px;
+    border-bottom: 1px black solid;
   }
 
   #special-items {
     background-color: white;
+    border: 1px black solid;
+    border-radius: 15px;
+    overflow: hidden;
   }
