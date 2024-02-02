@@ -104,12 +104,10 @@ body {
     height: 50px;
   }
 
-  #special {
-
+  #div-slide {
     align-items: center;
     text-align: center;
     overflow: hidden;
-    background-color: rgb(16, 130, 245);
     width: 1310px;
     height: 310px;
     margin-left: 20px;
