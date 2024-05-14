@@ -36,11 +36,6 @@ body {
     max-height: 40px;
 }
 
-.fas.fa-sign-in-alt {
-    color: blue;
-    font-size: 24px;
-}
-
   #nav-a {
     border: 2px solid black;
     border-radius: 8px;
@@ -82,6 +77,8 @@ body {
     max-height: 60px;
   }
 
+  /* code icon hay zir slide bar */
+
   #grouping {
     display: flex;
     justify-content: space-between;
@@ -104,16 +101,20 @@ body {
     height: 50px;
   }
 
+  /* code baray hame div slide ha */
+
   #div-slide {
     align-items: center;
     text-align: center;
     overflow: hidden;
     width: 1310px;
-    height: 310px;
+    height: 360px;
     margin-left: 20px;
     margin-right: 20px;
     border-radius: 15px;
   }
+
+  /* code jaygah vije div bala */
 
   #special-top-div {
     width: 100%;
@@ -121,6 +122,7 @@ body {
     align-self: flex-start;
     color: white;
   }
+  
 
   #special-btn {
     background-color: rgb(74, 155, 241);
@@ -135,8 +137,50 @@ body {
 
   #top-div-p {
     text-align: right;
-    align-items: center;
+    position: relative;
+    top: 20px;
+    right : 20px ;
   }
+/* code top shop */
+  #top-shop {
+    width: 100%;
+    height: 50px;
+    align-self: flex-start;
+  }
+
+  #special-top-div {
+    width: 100%;
+    height: 50px;
+    align-self: flex-start;
+    color: white;
+  }
+
+  #top-btn {
+    background-color:white;
+    border-radius: 8px;
+    border: 1px solid black;
+    padding: 8px;
+    float: left;
+    margin-left: 30px;
+    margin-top: 8px;
+    display: inline;
+  }
+
+  #top-images {
+    width: 60px;
+    height: 60px;
+    border: 1px black solid;
+    border-radius: 50px;
+  }
+
+  #top-items p {
+    background-color: darkgrey;
+    width: 180px;
+    margin-left: 10px;
+    border-radius: 8px;
+    margin-top: 10px;
+  }
+  /* code item hay jaigah vije */
 
   #special-images {
     width: 200px;
@@ -154,4 +198,12 @@ body {
     position: relative;
     left: 15px;
     top: 10px;
+  }
+
+  #special-items p {
+    background-color: darkgrey;
+    width: 180px;
+    margin-left: 10px;
+    border-radius: 8px;
+    margin-top: 10px;
   }
