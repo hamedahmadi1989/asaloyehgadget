@@ -6,16 +6,19 @@ body {
   
   #grouping {
     display: flex;
-    justify-content: space-between;
+    justify-content:space-around;
     font-family:arial;
-    margin-right: 30px;
-    margin-left: 30px;
+    margin-right: 10px;
+    margin-left: 10px;
   }
 
   #icons {
     border: solid 1px grey;
     padding-bottom: 5px;
     border-radius: 15px;
+    width: 120px;
+    display:flex;
+    justify-content: center;
   }
 
   /* navbar code */
