@@ -141,6 +141,45 @@ body {
     top: 20px;
     right : 20px ;
   }
+/* code top shop */
+  #top-shop {
+    width: 100%;
+    height: 50px;
+    align-self: flex-start;
+  }
+
+  #special-top-div {
+    width: 100%;
+    height: 50px;
+    align-self: flex-start;
+    color: white;
+  }
+
+  #top-btn {
+    background-color:white;
+    border-radius: 8px;
+    border: 1px solid black;
+    padding: 8px;
+    float: left;
+    margin-left: 30px;
+    margin-top: 8px;
+    display: inline;
+  }
+
+  #top-images {
+    width: 60px;
+    height: 60px;
+    border: 1px black solid;
+    border-radius: 50px;
+  }
+
+  #top-items p {
+    background-color: darkgrey;
+    width: 180px;
+    margin-left: 10px;
+    border-radius: 8px;
+    margin-top: 10px;
+  }
   /* code item hay jaigah vije */
 
   #special-images {
