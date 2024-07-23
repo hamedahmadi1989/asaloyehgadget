@@ -103,7 +103,7 @@ body {
 
   /* code baray hame div slide ha */
 
-  #div-slide {
+  #all-div-slides {
     align-items: center;
     text-align: center;
     overflow: hidden;
@@ -112,6 +112,8 @@ body {
     margin-left: 20px;
     margin-right: 20px;
     border-radius: 15px;
+    border: 1px solid black;
+    background-color: dodgerblue;
   }
 
   /* code jaygah vije div bala */
@@ -139,48 +141,16 @@ body {
     text-align: right;
     position: relative;
     top: 20px;
-    right : 20px ;
-  }
-/* code top shop */
-  #top-shop {
-    width: 100%;
-    height: 50px;
-    align-self: flex-start;
+    right : 20px;
   }
 
+  
   #special-top-div {
     width: 100%;
     height: 50px;
     align-self: flex-start;
     color: white;
   }
-
-  #top-btn {
-    background-color:white;
-    border-radius: 8px;
-    border: 1px solid black;
-    padding: 8px;
-    float: left;
-    margin-left: 30px;
-    margin-top: 8px;
-    display: inline;
-  }
-
-  #top-images {
-    width: 60px;
-    height: 60px;
-    border: 1px black solid;
-    border-radius: 50px;
-  }
-
-  #top-items p {
-    background-color: darkgrey;
-    width: 180px;
-    margin-left: 10px;
-    border-radius: 8px;
-    margin-top: 10px;
-  }
-  /* code item hay jaigah vije */
 
   #special-images {
     width: 200px;
@@ -207,3 +177,11 @@ body {
     border-radius: 8px;
     margin-top: 10px;
   }
+/* code hay frooshgah bartar */
+#top-shop-divBala {
+  width: 100%;
+  height: 50px;
+  align-self: flex-start;
+  color: white;
+  background-color: red;
+}
